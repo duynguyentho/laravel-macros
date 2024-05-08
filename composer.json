@@ -1,0 +1,17 @@
+{
+    "name": "duynguyentho/laravel-macros",
+    "description": "A set of macros for laravel",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Duynguyentho\\LaravelMacros\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "duynguyentho",
+            "email": "duynt2201@gmail.com"
+        }
+    ],
+    "require": {}
+}
